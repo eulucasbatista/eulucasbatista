@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Batista! 😄
 
 - 🔭 Estou trabalhando como Front-End
-- 🌱 Estudando Javascript, CSS, HTML, React e Node 
+- 🌱 Estudando Javascript, CSS, HTML, React, Node, PHP e Python
 - 😄 Pronomes: ele/dele
 
 
