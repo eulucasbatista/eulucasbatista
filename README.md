@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Batista! 😄
 
-- 🔭 Estou trabalhando como Front-End
+- 🔭 Estou trabalhando como Engenheiro de Software
 - 🌱 Estudando C#, Javascript, CSS, HTML, SQL Server e Python
 - 😄 Pronomes: ele/dele
 
