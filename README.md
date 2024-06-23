@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalhando como Engenheiro de Software
 - 🌱 Estudando C#, SQL Server e AWS
-- 😄 Pronomes: ele/dele
 
 
 <div align="center">
