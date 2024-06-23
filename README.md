@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Batista! 😄
 
 - 🔭 Estou trabalhando como Engenheiro de Software
-- 🌱 Estudando C#, SQL Server e Python
+- 🌱 Estudando C#, SQL Server e AWS
 - 😄 Pronomes: ele/dele
 
 
