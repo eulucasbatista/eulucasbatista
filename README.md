@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Batista!
 
 - 🔭 Estou trabalhando como Engenheiro de Software
-- 🌱 Estudando C#, SQL e AWS
+- 🌱 Estudando C#, .NET, SQL e AWS
 
 
 <div align="center">
